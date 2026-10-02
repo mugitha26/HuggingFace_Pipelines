@@ -1,0 +1,24 @@
+max_length,summary
+50,"Summarize this text in 30 words:
+
+Artificial intelligence and machine learning have rapidly transformed various industries over the past decade.
+From healthcare to finance, AI algorithms are helping professionals analyze complex data, automate routine tasks,
+and make more accurate predictions. In healthcare, medical imaging models can now detect anomalies with incredible precision,
+allowing doctors to diagnose conditions like canines and mastitis without taking too long to diagnose the underlying condition.
+
+In the healthcare industry, artificial intelligence is a major technology that has replaced the traditional human-computer interaction in medicine.
+"
+150,"Summarize this text in 80 words:
+
+Artificial intelligence and machine learning have rapidly transformed various industries over the past decade.
+From healthcare to finance, AI algorithms are helping professionals analyze complex data, automate routine tasks,
+and make more accurate predictions. In healthcare, medical imaging models can now detect anomalies with incredible precision,
+allowing doctors to diagnose conditions like cancer at much earlier stages. 
+
+Meanwhile, in the realm of natural language processing, transformer models have revolutionized how machines understand human language.
+Large language models can summarize many kinds of information, such as what was said, what is said, and what is said in a given sentence.
+
+A machine learning model can then learn from these information to understand what is said in different parts of a sentence. 
+
+For example, you can use a transformer and a robot to predict the meaning of a word by the way it is said, while you can use a machine learning model to learn from the meaning of the word by the way it is said.
+"
